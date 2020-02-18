@@ -1,0 +1,16 @@
+
+.titulo{
+  text-align: center;
+}
+.respostas1 {
+  display:inline-block;
+  border: 2px solid black;
+  text-align: center;
+  height: 50%;
+}
+.respostas2 {
+  display:inline-block;
+  border: 2px solid black;
+  text-align: center;
+  height: 50%;
+}
